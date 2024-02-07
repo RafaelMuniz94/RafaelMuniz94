@@ -33,6 +33,9 @@ Encontrando meu caminho como Engenheiro de Software :computer:
 
 ### Stay hungry stay foolish! :apple:
 
+</br>
+
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/RafaelMuniz94/count.svg"/></p>
 <!--
 **RafaelMuniz94/RafaelMuniz94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
